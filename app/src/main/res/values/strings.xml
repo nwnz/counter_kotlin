@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Счетчик</string>
+    <string name="text">Здесь будет счетчик</string>
+    <string name="button_text">Увеличить</string>
+</resources>
