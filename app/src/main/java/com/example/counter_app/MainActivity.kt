@@ -18,6 +18,6 @@ class MainActivity : AppCompatActivity() {
     var count:Int = 0
     fun add_value(view: View) {
         count ++
-        textView.text = count.toString()
+        txt.text = count.toString()
     }
 }
