@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
     var count:Int = 0
-    var number:Int = 0
+    var number2:Int = 0
     fun add_value(view: View) {
         count ++
         txt.text = count.toString()
